@@ -12,3 +12,9 @@ git clone https://github.com/tinygrad/tinygrad.git
 cd tinygrad
 python3 -m pip install -e .
 ```
+
+## Run
+
+```bash
+python3 simple-sample.py
+```
