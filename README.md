@@ -2,7 +2,7 @@
 
 MNIST implementation using [tinygrad](https://github.com/tinygrad/tinygrad).
 
-Based on this pytorch tutorial: [MNIST Handwritten Digit Recognition in PyTorch](https://nextjournal.com/gkoehler/pytorch-mnist)
+Based on this pytorch tutorial: [MNIST Handwritten Digit Recognition in PyTorch](https://nextjournal.com/gkoehler/pytorch-mnist) and this one [Aplicación de una red neuronal convolucional en un conjunto de datos mnist](https://www.geeksforgeeks.org/applying-convolutional-neural-network-on-mnist-dataset/)
 
 ## Install tinygrad
 
