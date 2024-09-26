@@ -22,3 +22,9 @@ python3 -m pip install -e .
 ```bash
 python3 simple-sample.py
 ```
+
+### On Linux with GPU
+
+```bash
+CUDA=1 python3 simple-sample.py
+```
